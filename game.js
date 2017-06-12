@@ -354,7 +354,6 @@ class Player extends Actor {
   }
 }
 
-
 const schemas = [
   [
     '         ',
